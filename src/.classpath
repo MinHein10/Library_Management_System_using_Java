@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="E:/Second Year HND Assignments/Jar for Connection/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="E:/Second Year HND Assignments/Jar for Connection/jdbc odbc driver.jar"/>
+	<classpathentry kind="lib" path="E:/Second Year HND Assignments/Jar for Connection/jdbc-api-1.4.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
